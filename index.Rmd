@@ -1,0 +1,14 @@
+---
+title: "Catie Kitrinos' Website"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+[About Me](AboutMe.html)      
+[EvoGenLab](EvoGen.html)
+
+Welcome! My name is Catie Kitrinos and I am a second year MA/PhD student in Dr. Jason Kamilar's Comparative Primatology Lab at the University of Massachusetts Amherst.
+
+![](Fossil.jpg)

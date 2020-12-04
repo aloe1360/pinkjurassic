@@ -1,0 +1,11 @@
+---
+title: "Evolutionary Genomics Labs"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+Here is the link to my completed labs for BIO 697:
+
+https://aloe1360.github.io/Ckitrinosgenomicscourse/
